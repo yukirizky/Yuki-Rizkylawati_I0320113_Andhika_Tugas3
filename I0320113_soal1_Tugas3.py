@@ -17,6 +17,9 @@ chingu.extend(["Falda", "piero"])
 print(chingu)
 
 # Menampilkan semua teman yuki dengan perulangan
-print( chingu * 5)
+print ("Teman yuki : ada {} orang".format (len(chingu)))
+for teman in chingu:
+    print (teman)
+    
 # Menampilkan Panjang list
 print(len(chingu))
