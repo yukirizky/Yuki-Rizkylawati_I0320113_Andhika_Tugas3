@@ -32,4 +32,5 @@ print(dict)
 # Menambahkan satu hobi
 dict["hobi2"] = "Mancing"
 
-print(dict)
+for key, val in dict.items():
+    print("%s : %s"% (key, val))
