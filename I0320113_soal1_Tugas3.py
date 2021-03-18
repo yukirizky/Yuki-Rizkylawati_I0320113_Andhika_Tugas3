@@ -5,9 +5,9 @@ chingu = ['Novela', 'Arum','Exga','tazkiya','Diva', 'Nina', 'Namira','Afnia', 'I
 print(chingu[4], chingu[6], chingu[7])
 
 #Mengganti list 3,5,9
-chingu[2] = 'Rika'
-chingu[4] = 'Ramadhani'
-chingu[8] = 'Anggar'
+chingu[3] = 'Rika'
+chingu[5] = 'Ramadhani'
+chingu[9] = 'Anggar'
 
 print(chingu)
 
